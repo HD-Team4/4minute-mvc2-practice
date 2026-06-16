@@ -1,0 +1,9 @@
+db.oracle.driver=oracle.jdbc.driver.OracleDriver
+db.oracle.url=jdbc:oracle:thin:@localhost:1521/XEPDB1
+db.oracle.username=YOUR_ORACLE_USERNAME
+db.oracle.password=YOUR_ORACLE_PASSWORD
+
+db.mariadb.driver=org.mariadb.jdbc.Driver
+db.mariadb.url=jdbc:mariadb://localhost:3306/sampledb
+db.mariadb.username=YOUR_MARIADB_USERNAME
+db.mariadb.password=YOUR_MARIADB_PASSWORD

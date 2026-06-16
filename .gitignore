@@ -1,0 +1,7 @@
+/build/
+/out/
+/target/
+*.class
+
+/src/main/resources/api.properties
+/src/main/resources/db.properties
